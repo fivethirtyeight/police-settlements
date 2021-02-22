@@ -1,0 +1,5 @@
+# Cleveland, OH
+
+*This data is a part of a FiveThirtyEight/The Marshall Project effort to collect comprehensive data on police misconduct settlements from 2010-19. See the [data dictionary here](../) and [the story here](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends).*
+
+We received settlement data for cases paid out between 2010-20. The data contained no closed date, so we assume calendar_year refers to the year the settlement was paid out. There was no information on type of misconduct, so we haven't filtered out anything and chosen to include everything that was given to us. Some cases included settlements that were paid out in multiple installments over multiple years. The data refers to the amount Cleveland paid out each year, not the number of cases settled that year. The data includes cases in which the city is the sole defendant, so we believe this is the whole universe of settlements related to police misconduct for the given time period.

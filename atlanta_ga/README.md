@@ -1,0 +1,5 @@
+# Atlanta, GA
+
+*This data is a part of a FiveThirtyEight/The Marshall Project effort to collect comprehensive data on police misconduct settlements from 2010-19. See the [data dictionary here](../) and [the story here](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends).*
+
+We received claims and lawsuits from FY 2015-20. Claims and lawsuits are mutually exclusive and were therefore both included in our final counts. We included all claims made against “courts,” “municipal courts,” and “police” and all lawsuits against “police,” “APD,” and “court.” We excluded vehicular accidents. We transferred the data we received from Atlanta into an Excel workbook with distinct tabs for claims and lawsuits. The data we received contained an erroneous “Date Denied” column for cases where settlements were reached. Atlanta confirmed the column should be disregarded. The data includes cases in which the city is the sole defendant, so we believe this is the whole universe of settlements related to police misconduct for the given time period.

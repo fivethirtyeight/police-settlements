@@ -1,0 +1,5 @@
+# Orlando, FL
+
+*This data is a part of a FiveThirtyEight/The Marshall Project effort to collect comprehensive data on police misconduct settlements from 2010-19. See the [data dictionary here](../) and [the story here](https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends).*
+
+We received data for settlements and pre-litigation claims for incidents that took place between 2010 and 2018. We did not filter out any cases, as all were labeled "excessive force" or "false arrest" and thus fell into the scope of our interest. Closed date here comes from "Date Lawsuit resolved." It’s possible one case resulted in multiple payments, as the docket number is duplicated, but the plaintiff and amount are different for both records. Much of the data was missing a closed date and the information was not reasonably obtainable. It is unclear whether this data set includes cases related to police misconduct where the city was the sole defendant.
