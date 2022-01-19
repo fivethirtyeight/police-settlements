@@ -243,5 +243,3 @@ sum(dc_2015_2020$amount_awarded)
 # That takes care of the first dataset we received from DC - which had disposition date until March 2019
 
 write.csv(DC1,paste0(out_data_path,"DC_edited.csv"), na = "",row.names = FALSE)
-
-
